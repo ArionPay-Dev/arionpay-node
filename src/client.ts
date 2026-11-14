@@ -12,7 +12,7 @@ import type {
   WebhookEventType,
 } from "./types.js";
 
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 export const DEFAULT_BASE_URL = "https://merchant.arionpay.com";
 
 export interface ArionPayOptions {
